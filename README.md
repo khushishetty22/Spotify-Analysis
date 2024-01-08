@@ -2,6 +2,7 @@
 The primary data which the project uses is a rich dataset sourced from Spotify's Web API. The 
 extracted data was converted to JSON datasets which offer comprehensive information about 
 tracks in various playlists. This data encompasses:
+
 • Track Details: Names, artists, and album information.
 • Audio Features: Quantitative measures like danceability, energy, valence, tempo, 
 loudness, and speechiness.
